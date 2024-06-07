@@ -1,7 +1,9 @@
 ## Loksabha_Election_2024_Seats_Prediction_Miner_Project.
 
-Associated with International Institute of Information Technology Bangalore
-Objective: To analyze and extract data related to the Loksabha Election 2024 using Python.
+
+### Objective: 
+
+To analyze and extract data related to the Loksabha Election 2024 using Python.
 
 ### Key Features:
 
